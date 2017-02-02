@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PrismBomb.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Top Level Stuff\GameManager.cs" Line="87" Column="3" />
+      <File FileName="Assets\Scripts\TestTurret.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\2DLightAsset\Scripts\2DLight\DynamicLight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Guns\Pistol.cs" Line="1" Column="1" />
+      <File FileName="Assets\PrismBomb.cs" Line="40" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
